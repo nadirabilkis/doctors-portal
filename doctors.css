@@ -68,3 +68,14 @@
 .container-custom{
     margin-top: -130px;
 }
+.main{
+
+}
+.doctors-section{
+    background-image:url(/img/contact\ us.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-color: #3a4256;
+    background-blend-mode: multiply;
+}
