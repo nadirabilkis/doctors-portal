@@ -52,7 +52,7 @@
 
 .bg-half-custom{
     height: 100vh;
-    width: 580px;
+    width:580px;
     background: black;
     position: absolute;
     right: 0;
@@ -72,10 +72,85 @@
 
 }
 .doctors-section{
-    background-image:url(/img/contact\ us.png);
+    background-image:url(/img/appointmentBanner-bg.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
     background-color: #3a4256;
     background-blend-mode: multiply;
+    margin-top: 150px;
 }
+.image-size{
+    height:600px;
+    margin-top: -130px;
+}
+.card-section{
+    margin-top: 130px;
+}
+.pic{
+    height: 150px;
+}
+
+
+.hoverStyle:hover .fa{
+    display: block !important;
+}
+
+
+.hoverStyle:hover .fa{
+    display: block !important;
+}
+
+
+
+
+
+.hoverStyle:hover .card-body{
+    background-color: aquamarine;
+    color:rgb(206, 201, 201);
+}
+
+
+
+.hoverStyle:hover .card-body img{
+    display: none !important;
+}
+
+
+.hoverStyle:hover .card-name{
+    font-size: 25px;
+    justify-content: flex-start;
+}
+
+
+.hoverStyle:hover .textPara{
+    display: none !important;
+}
+
+
+
+.custom-size{
+    height:250px;
+    overflow: hidden;
+    text-align: center;
+}
+.pic{
+    height: 250px;
+    overflow: hidden;
+    text-align: center;
+}
+.fa {
+    font-size:20px;
+}
+.section-custobBg{
+    background-image:url(./img/contact\ us.png);
+
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color:  #3a4256;
+    background-blend-mode:multiply;
+}
+
+
+
